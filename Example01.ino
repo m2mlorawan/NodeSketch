@@ -32,10 +32,10 @@ float slptime = 5000;
 
 //UnCommnet Sensor 
 //Select Only one sensor for 328P
-//#define SENSOR_VOLT  
+#define SENSOR_VOLT  
 //#define SENSOR_AM2321
 //#define SENSOR_HTU21D
-#define SENSOR_GPSM6N
+//#define SENSOR_GPSM6N
 
 //OTAA 
 // The 2 below should be in little endian format (lsb)
