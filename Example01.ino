@@ -3,6 +3,7 @@ INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PA
 m2mlorawan@gmail.com
 */
 
+#include <stdio.h>
 #include <lmic.h>
 #include <hal/hal.h>
 #include <SPI.h>
