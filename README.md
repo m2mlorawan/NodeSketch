@@ -6,6 +6,7 @@ oslmic.h
 added static to fix error when compile.
 static inline type table_get ## postfix(const type *table, size_t index) { \
 
+Download Lowpowerlibrary from https://github.com/rocketscream/Low-Power
 
 Searching Term "lora"
 
