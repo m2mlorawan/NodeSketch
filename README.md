@@ -10,7 +10,7 @@ Download Lowpowerlibrary from https://github.com/rocketscream/Low-Power
 
 Searching Term "lora"
 
-If you want to send only one channel such as 923.2Mhz, change \src\lmic\lorabase.h
+If you want to send only one channel such as 923.2Mhz, change \src\lmic\lorabase.h as following:
 
 enum { AS923_F1 = 923200000,      // g1   SF7-12
 
